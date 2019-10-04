@@ -1,0 +1,11 @@
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\bin\Debug\netcoreapp2.1\DotNet-Core-Playground.deps.json
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\bin\Debug\netcoreapp2.1\DotNet-Core-Playground.runtimeconfig.json
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\bin\Debug\netcoreapp2.1\DotNet-Core-Playground.runtimeconfig.dev.json
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\bin\Debug\netcoreapp2.1\DotNet-Core-Playground.dll
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\bin\Debug\netcoreapp2.1\DotNet-Core-Playground.pdb
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.csprojAssemblyReference.cache
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.csproj.CoreCompileInputs.cache
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.AssemblyInfoInputs.cache
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.AssemblyInfo.cs
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.dll
+C:\Users\dcolwell\source\repos\DotNet-Core-Playground\DotNet-Core-Playground\obj\Debug\netcoreapp2.1\DotNet-Core-Playground.pdb
